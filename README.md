@@ -6,5 +6,7 @@
 </p>
 
 <h3 align="center">
-Helm chart for llmaz
+A Helm Chart for llmaz
 </h3>
+
+All the chart files are now hosted in [llmaz](https://github.com/InftyAI/llmaz) for easy integration, please refer to [installation.md](https://github.com/InftyAI/llmaz/blob/main/docs/installation.md) for details.
